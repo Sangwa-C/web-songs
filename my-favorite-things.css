@@ -2,9 +2,22 @@
   color:goldenrod;
   background-color:rgb(8, 1, 8);
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  font: size 2em;
-  font-style: normal
-  list-style : height 1px;
-
-
+  font-size 2em;
+  font-style: normal;
+  list-style:height 1.7px;
 }
+
+
+.image{
+  width:200px;
+  height:200px
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:grey;
+  color: white;
+  text-align: center;
